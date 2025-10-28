@@ -18,23 +18,15 @@ Chef Claude is an AI-powered recipe generator built with **React**. Simply enter
 
 | Category | Technology |
 |-----------|-------------|
-| Frontend | React (Vite or CRA) |
+| Frontend | React (Vite) |
 | Styling | CSS  |
 | API | Claude API (via Anthropic SDK) |
 | Language | JavaScript |
-| Build Tool | Vite or Create React App |
+| Build Tool | Vite |
 
 ---
 
-## ⚙️ Setup & Installation
-
-1. **Clone this repository**
-
-   ```bash
-   git clone https://github.com/your-username/chef-claude.git
-   cd chef-claude
-
-
+## Demo
 ![A look at how it works](Chef-Claude.gif)
 
 Huge Thanks to Scrimba and Instructor Bob Ziroll for guiding me through this project!
