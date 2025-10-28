@@ -26,7 +26,7 @@ Chef Claude is an AI-powered recipe generator built with **React**. Simply enter
 
 ---
 
-## Demo
+## 🧩 Demo
 ![A look at how it works](Chef-Claude.gif)
 
 Huge Thanks to Scrimba and Instructor Bob Ziroll for guiding me through this project!
